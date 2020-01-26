@@ -1,4 +1,4 @@
-package com.exemplo.deque;
+package br.com.exemplo.deque;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

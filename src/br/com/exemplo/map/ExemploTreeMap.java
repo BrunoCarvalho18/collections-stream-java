@@ -1,4 +1,4 @@
-package com.exemplo.map;
+package br.com.exemplo.map;
 
 import java.util.Iterator;
 import java.util.Map;
