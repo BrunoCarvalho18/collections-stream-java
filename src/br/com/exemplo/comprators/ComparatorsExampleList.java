@@ -1,4 +1,4 @@
-package b.com.exemplo.comprators;
+package br.com.exemplo.comprators;
 
 import java.util.ArrayList;
 import java.util.Collections;
